@@ -109,6 +109,7 @@ Pour ajouter (ou enlever) votre nom à la liste des signataires, 2 solutions :
 * [Laurent Devernay](https://ldevernay.github.io/), formateur
 * [Nicolas Dewez](https://github.com/nicolasdewez), lead dev
 * [Nicolas Dievart](https://github.com/NicolasDievart), développeur
+* [Pierre Dittgen](https://github.com/pierredittgen), développeur
 * [Olivier Dolbeau](https://github.com/odolbeau), CTO & développeur
 * [Geoffrey Dorne](https://graphism.fr/), designer
 * [Grégoire Dubourg](https://twitter.com/gregoiredubourg), développeur
